@@ -38,7 +38,6 @@
                 {
                     totalDistance += rightLine - leftLine;
                 }
-
             }
 
             //Answer : 1388114
