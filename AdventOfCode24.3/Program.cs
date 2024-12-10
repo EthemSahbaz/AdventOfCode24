@@ -11,9 +11,6 @@ var total = 0;
 while (true)
 {
     foundIndex = subString.IndexOf(searchString);
-    var found = true;
-    var iteratorIndex = 0;
-
 
     if (foundIndex == -1)
         break;
