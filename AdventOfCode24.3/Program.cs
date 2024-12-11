@@ -25,7 +25,6 @@ while (true)
 
     subString = subString.Substring(1);
 
-
 }
 
 Console.WriteLine($"Total: {total}");
