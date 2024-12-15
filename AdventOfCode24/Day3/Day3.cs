@@ -9,7 +9,7 @@ internal static class Day3
 {
     public static void Part1()
     {
-        var input = File.ReadAllText("Day3.txt");
+        var input = File.ReadAllText("Day3/Day3.txt");
 
         var foundIndex = 0;
         var searchString = "mul";

@@ -9,7 +9,7 @@ internal static class Day2
 {
     public static void Part1()
     {
-        var reports = File.ReadLines("Day2.txt");
+        var reports = File.ReadLines("Day2/Day2.txt");
 
         int safeReports = 0;
 

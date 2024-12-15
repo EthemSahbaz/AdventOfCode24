@@ -9,7 +9,7 @@ internal static class Day1
 {
     public static void Part1()
     {
-        var lines = File.ReadLines("Day1.txt");
+        var lines = File.ReadLines("Day1/Day1.txt");
         var linesCount = lines.Count();
 
         List<int> left = new List<int>();

@@ -10,7 +10,7 @@ internal static class Day4
 
     public static void Part1()
     {
-        var input = File.ReadLines("Day4.txt");
+        var input = File.ReadLines("Day4/Day4.txt");
 
         var x = input.First().Length;
         var y = input.Count();
