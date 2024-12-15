@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AdventOfCode24;
+namespace AdventOfCode24.Day3;
 internal static class Day3
 {
     public static void Part1()
